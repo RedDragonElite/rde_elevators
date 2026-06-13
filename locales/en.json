@@ -1,0 +1,54 @@
+{
+    "elevator": {
+        "menu_title": "%s — Floor %s",
+        "travel_to": "Travel to %s",
+        "no_floors": "No floors available for this elevator.",
+        "occupied": "Occupied",
+        "players": "%d player(s)",
+        "vehicle_ok": "Vehicle allowed",
+        "vip_only": "VIP only",
+        "job_required": "Job required",
+        "maintenance": "Under maintenance"
+    },
+    "notifications": {
+        "arrived": "Arrived",
+        "arrived_desc": "You have arrived at floor: %s",
+        "entering_garage": "Entering elevator...",
+        "entering_garage_desc": "Please wait while the elevator moves.",
+        "leaving_garage": "Elevator arrived",
+        "leaving_garage_desc": "Welcome to your floor.",
+        "access_denied": "Access Denied",
+        "access_denied_desc": "You do not have permission to access this floor.",
+        "cooldown": "Please wait",
+        "cooldown_desc": "Elevator available in %d second(s).",
+        "maintenance_mode": "Out of Service",
+        "maintenance_mode_desc": "This elevator is currently under maintenance.",
+        "elevator_disabled": "Elevator Offline",
+        "elevator_disabled_desc": "This elevator has been disabled by an administrator.",
+        "unauthorized": "Unauthorized",
+        "unauthorized_desc": "You do not have permission to do that.",
+        "elevator_created": "Elevator created",
+        "floor_added": "Floor added",
+        "floor_removed": "Floor removed",
+        "vehicle_too_big": "Vehicle too large",
+        "vehicle_too_big_desc": "Your vehicle is too large for this elevator.",
+        "vehicle_not_allowed": "Vehicle not allowed",
+        "vehicle_not_allowed_desc": "This vehicle class cannot use the elevator.",
+        "no_vehicle": "No vehicle",
+        "no_vehicle_desc": "You are not in a vehicle.",
+        "error": "Error"
+    },
+    "admin": {
+        "menu_title": "RDE Elevator Admin",
+        "create_new": "Create New Elevator",
+        "create_desc": "Add a new elevator to the server"
+    },
+    "input": {
+        "elevator_name": "Elevator Name (unique ID)",
+        "elevator_label": "Elevator Label (display name)",
+        "enable_vehicle": "Enable vehicle mode",
+        "floor_name": "Floor Name",
+        "select_floor": "Select Floor",
+        "confirm_delete": "Are you sure you want to delete this elevator?"
+    }
+}

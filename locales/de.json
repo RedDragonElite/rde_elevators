@@ -1,0 +1,54 @@
+{
+    "elevator": {
+        "menu_title": "%s — Etage %s",
+        "travel_to": "Zu %s fahren",
+        "no_floors": "Keine Etagen für diesen Aufzug verfügbar.",
+        "occupied": "Belegt",
+        "players": "%d Spieler",
+        "vehicle_ok": "Fahrzeug erlaubt",
+        "vip_only": "Nur VIP",
+        "job_required": "Job erforderlich",
+        "maintenance": "In Wartung"
+    },
+    "notifications": {
+        "arrived": "Angekommen",
+        "arrived_desc": "Sie befinden sich jetzt in Etage: %s",
+        "entering_garage": "Aufzug fährt...",
+        "entering_garage_desc": "Bitte warten Sie, während der Aufzug fährt.",
+        "leaving_garage": "Aufzug angekommen",
+        "leaving_garage_desc": "Willkommen auf Ihrer Etage.",
+        "access_denied": "Zugang verweigert",
+        "access_denied_desc": "Sie haben keine Berechtigung für diese Etage.",
+        "cooldown": "Bitte warten",
+        "cooldown_desc": "Aufzug verfügbar in %d Sekunde(n).",
+        "maintenance_mode": "Außer Betrieb",
+        "maintenance_mode_desc": "Dieser Aufzug befindet sich in der Wartung.",
+        "elevator_disabled": "Aufzug offline",
+        "elevator_disabled_desc": "Dieser Aufzug wurde von einem Administrator deaktiviert.",
+        "unauthorized": "Keine Berechtigung",
+        "unauthorized_desc": "Sie haben keine Berechtigung dafür.",
+        "elevator_created": "Aufzug erstellt",
+        "floor_added": "Etage hinzugefügt",
+        "floor_removed": "Etage entfernt",
+        "vehicle_too_big": "Fahrzeug zu groß",
+        "vehicle_too_big_desc": "Ihr Fahrzeug ist zu groß für diesen Aufzug.",
+        "vehicle_not_allowed": "Fahrzeug nicht erlaubt",
+        "vehicle_not_allowed_desc": "Diese Fahrzeugklasse kann den Aufzug nicht nutzen.",
+        "no_vehicle": "Kein Fahrzeug",
+        "no_vehicle_desc": "Sie sitzen in keinem Fahrzeug.",
+        "error": "Fehler"
+    },
+    "admin": {
+        "menu_title": "Aufzug Admin",
+        "create_new": "Neuen Aufzug erstellen",
+        "create_desc": "Einen neuen Aufzug zum Server hinzufügen"
+    },
+    "input": {
+        "elevator_name": "Aufzug-Name (einzigartige ID)",
+        "elevator_label": "Aufzug-Bezeichnung (Anzeigename)",
+        "enable_vehicle": "Fahrzeugmodus aktivieren",
+        "floor_name": "Etagen-Name",
+        "select_floor": "Etage auswählen",
+        "confirm_delete": "Möchten Sie diesen Aufzug wirklich löschen?"
+    }
+}
